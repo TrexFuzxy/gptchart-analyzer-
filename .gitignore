@@ -1,0 +1,16 @@
+# Node.js
+node_modules
+.next
+.env
+
+# Python
+__pycache__/
+env/
+venv/
+
+# VSCode settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
